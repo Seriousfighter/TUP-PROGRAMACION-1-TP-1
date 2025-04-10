@@ -1,0 +1,7 @@
+C:\Users\Alan\Desktop\PROPIO\TUP\1er año\Programacion 1\estaciones\estaciones\bin\Debug\estaciones.exe.config
+C:\Users\Alan\Desktop\PROPIO\TUP\1er año\Programacion 1\estaciones\estaciones\bin\Debug\estaciones.exe
+C:\Users\Alan\Desktop\PROPIO\TUP\1er año\Programacion 1\estaciones\estaciones\bin\Debug\estaciones.pdb
+C:\Users\Alan\Desktop\PROPIO\TUP\1er año\Programacion 1\estaciones\estaciones\obj\Debug\estaciones.csproj.AssemblyReference.cache
+C:\Users\Alan\Desktop\PROPIO\TUP\1er año\Programacion 1\estaciones\estaciones\obj\Debug\estaciones.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Desktop\PROPIO\TUP\1er año\Programacion 1\estaciones\estaciones\obj\Debug\estaciones.exe
+C:\Users\Alan\Desktop\PROPIO\TUP\1er año\Programacion 1\estaciones\estaciones\obj\Debug\estaciones.pdb
